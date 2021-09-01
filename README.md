@@ -1,6 +1,6 @@
 # Market Analysis
 
-You has been asked to analyze the financial data of the companies in the S&P 500. Specifically, to find and plot the following:
+You have been asked to analyze the financial data of the companies in the S&P 500. Specifically, to find and plot the following:
 
 1. A pie chart of the S&P 500 company sector distribution
 
